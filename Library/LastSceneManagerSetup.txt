@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/escenario_principal.unity
+  isLoaded: 1
+  isActive: 1

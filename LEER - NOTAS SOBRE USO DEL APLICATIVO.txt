@@ -1,0 +1,21 @@
+Para la localización de los scripts tanto de python del algoritmo genético como de los funcionales en Unity dirigirse a la carpeta "Assets"
+
+PARA EJECUTAR EL ALGORITMO GENÉTICO - HERRAMIENTAS NECESARIAS:
+
+- Visual Studio Code, Python
+
+El archivo de ejecución está en "Assets/algoritmo_deap_4.py"
+
+Al ejecutarlo y mostrar el primer gráfico se guardarán dos archivos JSON en la carpeta "Assets/StreamingAssets/" necesarios para la simulación en Unity.
+
+PARA EJECUTAR EL VISOR DE EVOLUCIÓN POR GENERACIONES EN UNITY
+
+Si no tiene instalado Unity 5.6.7:
+
+- Abrir el archivo .exe "Algoritmo_genetico_simulador.exe"
+	
+	Nota: Es un aplicativo de prueba, utiliza archivos JSON predeterminados, no permite modificación, solo visualización del avance por cada generación de los JSON predeterminados
+
+Si tiene instalado Unity 5.6.7:
+
+- Abrir Unity, y agregar la carpeta como un proyecto existente (todas las ejecuciones que se realicen en python harán que el simulador en Unity se utilicen los últimos JSON generados)

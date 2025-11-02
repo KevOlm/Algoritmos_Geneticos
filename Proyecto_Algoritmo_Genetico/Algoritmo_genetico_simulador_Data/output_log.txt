@@ -1,0 +1,72 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 3 Graphics (ID=0x15dd)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   31.0.21923.11000
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\Algoritmos_Geneticos\Proyecto_Algoritmo_Genetico\Algoritmo_genetico_simulador_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.534600 ms
+Generaciones cargadas: 100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gen 0, Ind 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a3c -> priority: 1 
+  Thread -> id: 17b8 -> priority: 1 
